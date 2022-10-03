@@ -54,7 +54,7 @@
   <a href="https://facebook.com/Nguyenba" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Nguyenba-facebook" />
   </a>
-  <a href="#" target="blank">
+  <a href="/#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Nguyenba-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/ba-nguy%E1%BB%85n-913166227/" target="blank">
