@@ -54,16 +54,16 @@
   <a href="https://facebook.com/Nguyenba" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Nguyenba-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/NguyenbaOfficial" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Nguyenba-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/Nguyenba" target="blank">
+  <a href="https://www.linkedin.com/in/ba-nguy%E1%BB%85n-913166227/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Nguyenba-linkedin" />
   </a>
-  <a href="https://instagram.com/Nguyenba" target="blank">
+  <a href="https://www.instagram.com/b.ang.uyen/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Nguyenba-instagram" />
   </a>
-  <a href="mailto:.drei@gmail.com" target="top">
+  <a href="mailto:banv.drei@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Nguyenba-email" />
   </a>
 </div>
